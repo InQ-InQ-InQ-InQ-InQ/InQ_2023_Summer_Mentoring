@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&animation=fadeIn&height=230&section=header&text=InQ%202023%20Summer%20Mentoring&desc=2023학년도%20여름방학%20개인학습%20멘토링&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)](https://github.com/InQ-InQ-InQ-InQ-InQ/InQ_2023_Summer_Mentoring)
 
-## 📝 블로깅 업로드 방법
+## 📝 포스팅 업로드 방법
 
 - 먼저 해당 레포지토리를 본인의 로컬 저장소에 클론합니다.
 
