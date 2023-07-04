@@ -19,10 +19,10 @@
 <br>
 
 ## 👨‍👩‍👧‍👦 Members
-|[![gyuseon25](https://avatars.githubusercontent.com/u/118058218?v=4)](http://github.com/gyuseon25)|[![SongJaeHoonn](https://avatars.githubusercontent.com/u/128021502)](http://github.com/SongJaeHoonn)|[![kimzooci](https://avatars.githubusercontent.com/u/130586402)](http://github.com/kimzooci)|[![wongam01](https://avatars.githubusercontent.com/u/128019637?v=4)](http://github.com/wongam01)|[![hongsy521](https://avatars.githubusercontent.com/u/124027140)](http://github.com/hongsy521)|
+|[![gyuseon25](https://avatars.githubusercontent.com/u/118058218)](http://github.com/gyuseon25)|[![SongJaeHoonn](https://avatars.githubusercontent.com/u/128021502)](http://github.com/SongJaeHoonn)|[![kimzooci](https://avatars.githubusercontent.com/u/130586402)](http://github.com/kimzooci)|[![wongam01](https://avatars.githubusercontent.com/u/128019637)](http://github.com/wongam01)|[![hongsy521](https://avatars.githubusercontent.com/u/124027140)](http://github.com/hongsy521)|
 |:---:|:---:|:---:|:---:|:---:|
 |**[규선](http://github.com/gyuseon25)**|**[재훈](http://github.com/SongJaeHoonn)**|**[주현](http://github.com/kimzooci)**|**[원감](http://github.com/wongam01)**|**[서영](http://github.com/hongsy521)**|
-|[![hyeonseo9](https://avatars.githubusercontent.com/u/128016782?v=4)](http://github.com/hyeonseo9)|[![kdy0324n](https://avatars.githubusercontent.com/u/74912915)](http://github.com/kdy0324n)|[![nahyun0423](https://avatars.githubusercontent.com/u/68987116)](http://github.com/nahyun0423)|[![piedra-de-flor](https://avatars.githubusercontent.com/u/101418352)](http://github.com/piedra-de-flor)||
-|**[현서](http://github.com/hyeonseo9)**|**[성민](http://github.com/kdy0324n)**|**[나현](http://github.com/nahyun0423)**|**[영우](http://github.com/piedra-de-flor)**||
+|[![hyeonseo9](https://avatars.githubusercontent.com/u/128016782?v=4)](http://github.com/hyeonseo9)|[![kdy0324n](https://avatars.githubusercontent.com/u/74912915)](http://github.com/kdy0324n)|[![nahyun0423](https://avatars.githubusercontent.com/u/68987116)](http://github.com/nahyun0423)|[![piedra-de-flor](https://avatars.githubusercontent.com/u/101418352)](http://github.com/piedra-de-flor)|[![holyPigeon](https://avatars.githubusercontent.com/u/89138189)](http://github.com/holyPigeon)|
+|**[현서](http://github.com/hyeonseo9)**|**[성민](http://github.com/kdy0324n)**|**[나현](http://github.com/nahyun0423)**|**[영우](http://github.com/piedra-de-flor)**|**[재우](http://github.com/holyPigeon)**|
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&animation=fadeIn&section=footer)](https://github.com/2023-KDH-Capstone-Design) 
