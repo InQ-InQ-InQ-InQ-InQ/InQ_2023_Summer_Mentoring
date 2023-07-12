@@ -19,7 +19,7 @@ public class BasicController {
 ## @GetMapping
 > @GetMapping Annotation은 Spring MVC에서 사용되는 Annotation 중 하나로, HTTP GET 요청을 처리하는 메서드에 적용된다.
 즉 `@GetMapping` 은 특정 URL 경로와 HTTP GET 메서드를 처리하는 메서드를 매핑한다.
-위의 예제에서 알 수 있듯이 `/basic` 경로로 요청이 들어오면, `showBaiscPage` 메소드를 호출해 뷰를 지정해 보여주게 된다.
+위의 예제에서 알 수 있듯이 `/basic` 경로로 요청이 들어오면 `showBaiscPage` 메소드를 호출해 뷰를 지정해 보여주게 된다.
 
 ## @PathVariable 
 
@@ -49,6 +49,6 @@ public class BasicController {
     service.updateBoard(id, boardDto);
     redirectAttributes.addAttribute("id",id);
     return "redirect:/detail/{id}";
-    } ...
+    } ....
 ```
 ✒️예시는 `Update` 에 대한 예시이다. `@PathVariable`을 통해 경로 변수인 id를 추출하여 Long 타입의 id 매개변수에 전달받는다. 최종적으로 게시물이 수정된 후 해당 게시물의 상세 페이지로 리다이렉트된다. `/detail/{id}`경로로 POST 요청이 들어왔을 때, 게시물을 업데이트하고 수정된 게시물의 상세 페이지로 리다이렉트하는 기능을 구현한 예제이다.
